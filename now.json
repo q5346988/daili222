@@ -2,6 +2,6 @@
   "name": "proxy",
   "version": 2,
   "routes": [
-    {"src": "/(.*)","dest": "https://vvv21.herokuapp.com/$1"}
+    {"src": "/(.*)","dest": "https://vvvdaili.herokuapp.com/$1"}
   ]
 }
